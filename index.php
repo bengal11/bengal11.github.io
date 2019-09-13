@@ -9,6 +9,7 @@
 <script language="javascript">
     function run()
     {
+        alert(1);
         var ProviderName = "Crypto-Pro GOST R 34.10-2001 Cryptographic Service Provider";
         var ProviderType = 75;
 
