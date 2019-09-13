@@ -6,7 +6,7 @@
 <script language="javascript" src="www.vod12.ru/abonents/techconditions/Code.js"></script>
 <script language="javascript" src="www.vod12.ru/abonents/techconditions/async_code.js"></script>
 
-
+123
 <script language="javascript">
     function run()
     {
@@ -46,7 +46,7 @@
         catch(er)
         {
             if(er.message.indexOf("0x80090019")+1)
-                return "Указанный CSP не установлен";
+                return "Г“ГЄГ Г§Г Г­Г­Г»Г© CSP Г­ГҐ ГіГ±ГІГ Г­Г®ГўГ«ГҐГ­";
             else
                 return er.message;
             return false;
