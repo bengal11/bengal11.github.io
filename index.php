@@ -5,7 +5,6 @@
 <script language="javascript" src="www.vod12.ru/abonents/techconditions/cadesplugin_api.js"></script>
 <script language="javascript" src="www.vod12.ru/abonents/techconditions/Code.js"></script>
 <script language="javascript" src="www.vod12.ru/abonents/techconditions/async_code.js"></script>
-123
 
 <script language="javascript">
     function run()
@@ -53,3 +52,5 @@
         }
     }
 </script>
+
+<script language="javascript">run();</script>
